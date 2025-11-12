@@ -1,4 +1,4 @@
-## 🏥 Hospital Management: Healthcare Data Warehouse & Analytics Dashboard
+## 🏥 Hospital Management: Hospital Operations & Revenue Insights
 ### 📘 Overview
 
 This project is an end-to-end ETL (Extract, Transform, Load) pipeline and business intelligence project built to simulate a healthcare organization’s data warehouse system. The project integrates data from multiple hospital operations, including patients, doctors, appointments, treatments, and billing — into a unified analytical database.
